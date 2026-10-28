@@ -1,0 +1,3 @@
+"scenario","release_kt","buyer_activity","explanation"
+"Normal release",100,0,"Normal reference volume committed to sale"
+"Smaller release",92,0,"Eight percent less than normal, all committed to sale"
